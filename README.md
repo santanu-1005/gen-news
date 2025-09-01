@@ -18,7 +18,7 @@ PREREQUISITES
 ---
 QUICK START
 
-1. Clone the Dojo
+1. Clone the repository
 ```
 git clone https://github.com/santanu-1005/gen-news.git
 cd gen-news
@@ -30,7 +30,7 @@ pipenv install
 pipenv shell
 ```
 
-3. Ninja Secrets (Environment Setup)
+3. Environment Setup
 Create .env file:
 ```
 cp .env.example .env
